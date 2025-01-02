@@ -86,3 +86,4 @@ web_server:
 
 ecodan:
   id: ecodan_instance
+  uart_id: uart_ecodan
