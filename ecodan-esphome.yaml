@@ -88,3 +88,7 @@ ecodan:
   id: ecodan_instance
   uart_id: uart_ecodan
 
+ecodan:
+  id: ecodan_instance
+  rx_pin: GPIO3
+  tx_pin: GPIO1
